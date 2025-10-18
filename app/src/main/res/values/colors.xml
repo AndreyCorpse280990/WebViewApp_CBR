@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundLight">#FFFFFF</color> <!-- светлый фон -->
+    <color name="textPrimary">#000000</color> <!-- основной текст -->
+    <color name="primary">#6200EE</color> <!-- основной цвет кнопок -->
+    <color name="primaryVariant">#3700B3</color> <!-- темный оттенок кнопок -->
+    <color name="error">#B00020</color> <!-- красный для ошибок -->
+    <color name="white">#FFFFFF</color> <!-- белый текст на кнопках -->
+</resources>
