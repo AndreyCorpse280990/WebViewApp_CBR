@@ -10,3 +10,4 @@
 ## Скриншоты
 ![img.png](img.png)
 
+[README.md](README.md)
